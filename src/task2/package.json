@@ -1,0 +1,12 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "ecommerce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "name <name@amdocs.com> (http://blog.example.com/)",
+  "license": "ISC"
+}
